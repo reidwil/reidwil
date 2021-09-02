@@ -1,4 +1,5 @@
 ### Hi my name is Reid 👋
+
 I believe one of the sweetest joys in life is to learn
 
 Connect with me:
