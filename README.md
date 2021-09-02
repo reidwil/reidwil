@@ -1,9 +1,8 @@
 ### Hi my name is Reid 👋
 
-I believe one of the sweetest joys in life is to learn
-
-Connect with me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/reidwil) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/slimebwoy)
+
+I believe one of the sweetest joys in life is to learn
 
 ### About me :receipt:
 - I got married during covid to my college sweetheart
