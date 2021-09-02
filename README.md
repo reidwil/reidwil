@@ -23,11 +23,9 @@
 ### Show your work
 |Link   	|Description   	|
 |---	|---	|
-|[Prophet model in R]   	|Quick example of how to use the prophet forecasting library in R   	|
+|[songbank](https://github.com/reidwil/songbank) |Python/docker application that downloads audio from youtube videos and meta tags the file |
+|[tweet_bot](https://github.com/reidwil/tweet_bot) |Bot that retweets categorically high content from twitter |
+|[prophet forecast](https://github.com/reidwil/personal/tree/master/prophet)   	|Quick example of how to use the prophet forecasting library in R   	|
 |[dbt utility macros](https://github.com/reidwil/personal/tree/master/dbt/macros/reid-macros)   	|dbt macros to interact with database objects   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
+|[zsh dot_files](https://github.com/reidwil/personal/tree/master/dot_files)  	|Files that will be initialized everytime a zsh terminal is instantiated   	|
+|[half-baked advent of code](https://github.com/reidwil/adventofcode)   	|Some www.adventofcode.com solutions in Python/R   	|
