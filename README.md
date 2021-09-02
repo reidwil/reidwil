@@ -29,6 +29,12 @@ I believe one of the sweetest joys in life is to learn
 ### Activity ⚡
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/reidwil/songbank/pull/2) in [reidwil/songbank](https://github.com/reidwil/songbank)
+2. 🎉 Merged PR [#17](https://github.com/reidwil/personal/pull/17) in [reidwil/personal](https://github.com/reidwil/personal)
+3. 💪 Opened PR [#17](https://github.com/reidwil/personal/pull/17) in [reidwil/personal](https://github.com/reidwil/personal)
+4. 🎉 Merged PR [#16](https://github.com/reidwil/personal/pull/16) in [reidwil/personal](https://github.com/reidwil/personal)
+5. 💪 Opened PR [#16](https://github.com/reidwil/personal/pull/16) in [reidwil/personal](https://github.com/reidwil/personal)
+<!--END_SECTION:activity-->
 
 
 
