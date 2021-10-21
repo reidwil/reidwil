@@ -29,11 +29,11 @@ I believe one of the sweetest joys in life is to learn
 ### Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/reidwil/personal/issues/19) in [reidwil/personal](https://github.com/reidwil/personal)
-2. 💪 Opened PR [#19](https://github.com/reidwil/personal/pull/19) in [reidwil/personal](https://github.com/reidwil/personal)
-3. 💪 Opened PR [#2](https://github.com/reidwil/songbank/pull/2) in [reidwil/songbank](https://github.com/reidwil/songbank)
-4. 🎉 Merged PR [#17](https://github.com/reidwil/personal/pull/17) in [reidwil/personal](https://github.com/reidwil/personal)
-5. 💪 Opened PR [#17](https://github.com/reidwil/personal/pull/17) in [reidwil/personal](https://github.com/reidwil/personal)
+1. 💪 Opened PR [#20](https://github.com/reidwil/personal/pull/20) in [reidwil/personal](https://github.com/reidwil/personal)
+2. 🗣 Commented on [#19](https://github.com/reidwil/personal/issues/19) in [reidwil/personal](https://github.com/reidwil/personal)
+3. 💪 Opened PR [#19](https://github.com/reidwil/personal/pull/19) in [reidwil/personal](https://github.com/reidwil/personal)
+4. 💪 Opened PR [#2](https://github.com/reidwil/songbank/pull/2) in [reidwil/songbank](https://github.com/reidwil/songbank)
+5. 🎉 Merged PR [#17](https://github.com/reidwil/personal/pull/17) in [reidwil/personal](https://github.com/reidwil/personal)
 <!--END_SECTION:activity-->
 
 
