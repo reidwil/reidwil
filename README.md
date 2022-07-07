@@ -7,7 +7,7 @@ I believe one of the sweetest joys in life is to learn
 ### About me :receipt:
 - I got married during covid to my college sweetheart
 - I recently became a cat person 😺
-- I am a data engineer at jetBlue! <img height="20" width="20" src="https://play-lh.googleusercontent.com/J-Al5eRdUvFSw4eeiNR6IC0R4WYVur3KA-eRmwT_8RRKCMBP7p96QFY0eXuzEQKveQ" />
+- I am a senior data engineer at Disney Streaming
 - I currently live in Brooklyn, New York :city_sunset:
 - I'm ambidexterous
 - I'm an autodidactic programmer (minus one or two excellent mentors)
